@@ -4,8 +4,7 @@ This is my personal developer portfolio built with Next.js, showcasing my skills
 The project is optimized for performance, SEO, and scalability.
 
 🚀 Tech Stack
-
-Next.js (App Router)
+Next.js
 
 React
 
@@ -13,9 +12,11 @@ TypeScript
 
 Tailwind CSS
 
-Framer Motion (animations)
+@react-three/fiber (3D background)
 
-Vercel (deployment)
+@react-three/drei
+
+Vercel Deployment
 
 📁 Features
 
@@ -26,8 +27,6 @@ Vercel (deployment)
 ✉️ Contact Form — Send messages directly (via API route or Formspree)
 
 📱 Fully Responsive — Works perfectly on all screen sizes
-
-⚡ Smooth animations powered by Framer Motion
 
 🔍 SEO-Optimized — Metadata, Open Graph, and sitemap included
 
