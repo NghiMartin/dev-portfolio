@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🌐 Developer Portfolio
 
-## Getting Started
+This is my personal developer portfolio built with Next.js, showcasing my skills, projects, and experience.
+The project is optimized for performance, SEO, and scalability.
 
-First, run the development server:
+🚀 Tech Stack
 
-```bash
+Next.js (App Router)
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Framer Motion (animations)
+
+Vercel (deployment)
+
+📁 Features
+
+🧑‍💻 About Me — A short introduction highlighting my skills and background
+
+📂 Projects Showcase — Featured projects with demo & source code links
+
+✉️ Contact Form — Send messages directly (via API route or Formspree)
+
+📱 Fully Responsive — Works perfectly on all screen sizes
+
+⚡ Smooth animations powered by Framer Motion
+
+🔍 SEO-Optimized — Metadata, Open Graph, and sitemap included
+
+📦 Installation & Setup
+# 1. Clone the repository
+git clone https://github.com/NghiMartin/dev-portfolio.git
+
+# 2. Navigate to the project
+cd dev-portfolio
+
+# 3. Install dependencies
+npm install
+# or
+yarn install
+
+# 4. Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🧩 Customization
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You can modify:
 
-## Learn More
+/public/images/ to replace profile images or banners
 
-To learn more about Next.js, take a look at the following resources:
+SEO settings inside app/layout.tsx
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Theme colors inside tailwind.config.js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚀 Deployment (Vercel)
 
-## Deploy on Vercel
+To deploy the portfolio, simply run:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Or connect the GitHub repository and enable automatic deployments.
+
+📬 Contact
+
+Feel free to connect or collaborate:
+
+Email: soobinnghi@gmail.com
+
+Instargram: https://www.instagram.com/nguyenbanghi/
+
+GitHub: https://github.com/nghimartin
